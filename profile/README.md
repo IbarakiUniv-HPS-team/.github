@@ -1,12 +1,3 @@
-## Hi there 👋
+# 茨城大学 高圧合成チーム
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+この organization および 各レポジトリは高圧合成に用いる圧力媒体内部パーツ切削コードをつくるためのプログラムのバージョン管理，プログラム作成のためのプログラマー育成，コードに関する議論を目的としたものです．
